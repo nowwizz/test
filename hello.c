@@ -11,4 +11,6 @@ int main(){
     c = a + b;
     printf("%d\n",c);
 
+    printf("오또케오또케~\n");
+
 }
